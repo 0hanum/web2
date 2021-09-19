@@ -12,6 +12,5 @@
       <li><a href="3게임 조작키.html">게임 조작키</a></li>
       <li><a href="4물약 만드는 방법.html">물약 만드는 방법</a></li>
     </ol>
-    매뉴를 고르세요
   </body>
 </html>
